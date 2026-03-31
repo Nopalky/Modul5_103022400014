@@ -3,3 +3,13 @@ D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_1
 D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.AssemblyInfo.cs
 D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.csproj.CoreCompileInputs.cache
 D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.sourcelink.json
+D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.exe
+D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.deps.json
+D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.runtimeconfig.json
+D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.dll
+D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.pdb
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.dll
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\refint\Modul5_103022400014.dll
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.pdb
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.genruntimeconfig.cache
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\ref\Modul5_103022400014.dll

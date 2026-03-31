@@ -1,5 +1,4 @@
-﻿
-public class SimpleDataBase<T> {
+﻿public class SimpleDataBase<T> {
     private List<T> storedData;
     private List<DateTime> inputDates;
 
@@ -26,6 +25,7 @@ public class SimpleDataBase<T> {
 public class Progress {
     public static void Main(string[] args)
     {
+        //103022400014
         SimpleDataBase<int> data = new SimpleDataBase<int>();
         data.AddNewData(10);
         data.AddNewData(30);
