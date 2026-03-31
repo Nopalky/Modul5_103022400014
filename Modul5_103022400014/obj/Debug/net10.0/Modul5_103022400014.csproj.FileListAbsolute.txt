@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.exe
 D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.deps.json
 D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.runtimeconfig.json
 D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.dll
 D:\New folder\Modul5_103022400014\Modul5_103022400014\bin\Debug\net10.0\Modul5_103022400014.pdb
+=======
+>>>>>>> implementasi-generic-class
 D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.GeneratedMSBuildEditorConfig.editorconfig
 D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.AssemblyInfoInputs.cache
 D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.AssemblyInfo.cs
