@@ -1,0 +1,5 @@
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.AssemblyInfoInputs.cache
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.AssemblyInfo.cs
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.csproj.CoreCompileInputs.cache
+D:\New folder\Modul5_103022400014\Modul5_103022400014\obj\Debug\net10.0\Modul5_103022400014.sourcelink.json
